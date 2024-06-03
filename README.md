@@ -19,7 +19,8 @@ pip install -r requirements.txt
 
 **Usage**
 1. Run the Streamlit app:
-2. streamlit run app.py
+2. streamlit run app.py [for text]
+3. 2. streamlit run vision.py [for image]
 
 **Interact with the bot:**
 1.Type questions directly into the input field.
